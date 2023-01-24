@@ -1,0 +1,38 @@
+.mainDivForImages {
+  display: "flex";
+  margin-top: "20vh";
+  justify-content: "center";
+  overflow: "auto";
+}
+
+.imageText {
+  display: flex;
+  justify-content: center;
+  margin-right: 39px;
+  margin-top: 10px;
+}
+.BookmarkBorderIcon {
+  margin-left: "260px";
+  margin-top: "25px";
+  position: "absolute";
+}
+.del {
+  font-size: "9.99px";
+  margin-top: "5px";
+}
+.bagsAndBackpacksStyling {
+  font-family: Encode Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.1em;
+}
+
+/* styles for bags */
+.mainDiv {
+  display: "flex";
+  margin-top: "20vh";
+  justify-content: "center";
+  overflow: "auto";
+  background: red;
+}
